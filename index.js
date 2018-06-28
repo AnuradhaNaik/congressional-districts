@@ -307,7 +307,7 @@ var getState=function (zip) {
 	if(!data[zip]){
 		return [];
 	}else{
-		return data[zip].state;
+		return data[zip].statename;
 	}
 
 }
@@ -315,3 +315,6 @@ var getState=function (zip) {
 exports.getNumOfDistricts = getNumOfDistricts;
 exports.getDistricts = getDistricts;
 exports.confirm = confDist;
+exports.statenameab=statenameab;
+exports.statename=statename;
+exports.getstate=getState;
