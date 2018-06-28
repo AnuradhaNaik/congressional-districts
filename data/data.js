@@ -1052,7 +1052,7 @@ exports.data = {
 "86547": {"state": "4", "districts": ["1"],"statename":"AZ"},
 "86556": {"state": "4", "districts": ["1"],"statename":"AZ"},
 "87328": {"state": "4", "districts": ["1"],"statename":"AZ"},
-"38769": {"state": "5", "districts": ["1"],"statename","AR"},
+"38769": {"state": "5", "districts": ["1"],"statename":"AR"},
 "65729": {"state": "5", "districts": ["3"],"statename":"AR"},
 "65733": {"state": "5", "districts": ["3"],"statename":"AR"},
 "65761": {"state": "5", "districts": ["3"],"statename":"AR"},
